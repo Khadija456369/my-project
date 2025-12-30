@@ -1,0 +1,5 @@
+node_modules/
+.evn
+*.log
+.DS_Store
+Thumb.db
